@@ -4,29 +4,29 @@ Az órák csütörtökönként a BA.F.07-ben vannak (távoktatásban, MS Teams-e
 
 |hét |dátum      |előadás                    |gyakorlat                                                               |
 |---:|:---------:|:-------------------------:|:----------------------------------------------------------------------:|
-|  1.|  02. 10.  | Bevezető, áttekintés      | feladat és a munkafolyamat átfogó ismertetése                          |
-|  2.|  02. 17.  | Napi munka, verziókezelők | git, GitHub, IDE ismertetés                                            |
-|  3.|  02. 24.  | Software Architecture I.  | csapatsorsolás, warmup                                                 |
-|  4.|  03. 03.  | Software Architecture II. | Sprint Planning, Task Definition Workshop                              |
-|  5.|  03. 10.  | Agile, SCRUM, Kanban      | konzultáció (hozott UML-k megbeszélése)                                |
-|  6.|  03. 17.  | Verification & validation | konzultáció                                                            |
-|  7.|  03. 24.  | Continuous Integration    | nálunk hogy működik (handout, AutomatedCar), konzultáció               |
-|  8.|**03. 31.**| **1. demo**               | retrospektív, Sprint Planning, Task Definition Workshop                |
-|  9.|  04. 07.  | Review                    | PR review, konzultáció                                                 |
-| 10.|  04. 14.  | Rektori/dékáni szünet     |                                                                        |
-| 11.|  04. 21.  | Legacy Code               | konzultáció                                                            |
-| 13.|  04. 28.  | TBD                       |                                                                        |
-| 12.|**05. 05.**| Összefoglalás, **2. demo**| retrospektív, tárgy feedback                                           |
-| 14.|**05. 12.**| **Zárthelyi dolgozat**    |                                                                        |
+|  1.|  09. 08.  | Bevezető, áttekintés      | feladat és a munkafolyamat átfogó ismertetése                          |
+|  2.|  09. 15.  | Napi munka, verziókezelők | git, GitHub, IDE ismertetés                                            |
+|  3.|  09. 22.  | Software Architecture I.  | csapatsorsolás, warmup                                                 |
+|  4.|  09. 29.  | Software Architecture II. | Sprint Planning, Task Definition Workshop                              |
+|  5.|  10. 06.  | Agile, SCRUM, Kanban      | konzultáció (hozott UML-k megbeszélése)                                |
+|  6.|  10. 13.  | Verification & validation | konzultáció                                                            |
+|  7.|  10. 20.  | Continuous Integration    | nálunk hogy működik (handout, AutomatedCar), konzultáció               |
+|  8.|**10. 27.**| **1. demo**               | retrospektív, Sprint Planning, Task Definition Workshop                |
+|  9.|  11. 03.  | Review                    | PR review, konzultáció                                                 |
+| 10.|  11. 10.  | TBD                       |                                                                        |
+| 11.|  11. 17.  | Legacy Code               | konzultáció                                                            |
+| 13.|  11. 24.  | TBD                       |                                                                        |
+| 12.|**12. 01.**| Összefoglalás, **2. demo**| retrospektív, tárgy feedback                                           |
+| 14.|**12. 08.**| **Zárthelyi dolgozat**    |                                                                        |
 
 
 ## Házi feladatok
 
 hét| feladat
 ---|--------
-1  | [Avalonia Tutorial teljesítése](https://docs.avaloniaui.net/tutorials/todo-list-app)
-3  | Warmup feladat
-4  | modul tervezése, UML (statikus és dinamikus) készítése és feltöltése GitHubra
+2  | [Avalonia Tutorial teljesítése](https://docs.avaloniaui.net/tutorials/todo-list-app)
+4  | Warmup feladat
+5  | modul tervezése, UML (statikus és dinamikus) készítése és feltöltése GitHubra
 
 
 ## Gantt diagram
