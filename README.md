@@ -11,3 +11,4 @@ További felhasználd modulok:
 - Interaktív diagram(ok), pl. Gantt: [mermaid](https://github.com/mermaid-js/mermaid)
 
 Ha hibát vagy ellentmondást találsz vegyél fel issue-t, vagy küldj Pull Requestet a javítással (előtte forkolni kell).
+ 
