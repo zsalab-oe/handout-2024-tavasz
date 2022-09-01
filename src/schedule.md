@@ -4,18 +4,18 @@ Az órák csütörtökönként a BA.F.07-ben vannak (távoktatásban, MS Teams-e
 
 |hét |dátum      |előadás                    |gyakorlat                                                               |
 |---:|:---------:|:-------------------------:|:----------------------------------------------------------------------:|
-|  1.|  09. 08.  | Bevezető, áttekintés      | feladat és a munkafolyamat átfogó ismertetése                          |
-|  2.|  09. 15.  | Napi munka, verziókezelők | git, GitHub, IDE ismertetés                                            |
-|  3.|  09. 22.  | Software Architecture I.  | csapatsorsolás, warmup                                                 |
-|  4.|  09. 29.  | Software Architecture II. | Sprint Planning, Task Definition Workshop                              |
-|  5.|  10. 06.  | Agile, SCRUM, Kanban      | konzultáció (hozott UML-k megbeszélése)                                |
+|  1.|  09. 08.  | Bevezető, áttekintés      | feladat és a munkafolyamat átfogó ismertetése, avalonia tutorial       |
+|  2.|  09. 15.  | Napi munka, verziókezelők | git, GitHub, IDE ismertetés, warmup feladat ismertetése                |
+|  3.|  09. 22.  | Software Architecture I.  | csapatsorsolás, Sprint Planning, Task Definition Workshop              |
+|  4.|  09. 29.  | Software Architecture II. | konzultáció (design dokumentumok bemutatása)                           |
+|  5.|  10. 06.  | Agile, SCRUM, Kanban      | konzultáció                                                            |
 |  6.|  10. 13.  | Verification & validation | konzultáció                                                            |
 |  7.|  10. 20.  | Continuous Integration    | nálunk hogy működik (handout, AutomatedCar), konzultáció               |
 |  8.|**10. 27.**| **1. demo**               | retrospektív, Sprint Planning, Task Definition Workshop                |
-|  9.|  11. 03.  | Review                    | PR review, konzultáció                                                 |
-| 10.|  11. 10.  | TBD                       |                                                                        |
-| 11.|  11. 17.  | Legacy Code               | konzultáció                                                            |
-| 13.|  11. 24.  | TBD                       |                                                                        |
+|  9.|  11. 03.  | TBD                       | konzultáció                                                            |
+| 10.|  11. 10.  | TBD                       | konzultáció                                                            |
+| 11.|  11. 17.  | TBD                       | konzultáció                                                            |
+| 13.|  11. 24.  | TBD                       | konzultáció                                                            |
 | 12.|**12. 01.**| Összefoglalás, **2. demo**| retrospektív, tárgy feedback                                           |
 | 14.|**12. 08.**| **Zárthelyi dolgozat**    |                                                                        |
 
@@ -25,8 +25,8 @@ Az órák csütörtökönként a BA.F.07-ben vannak (távoktatásban, MS Teams-e
 hét| feladat
 ---|--------
 2  | [Avalonia Tutorial teljesítése](https://docs.avaloniaui.net/tutorials/todo-list-app)
-4  | Warmup feladat
-5  | modul tervezése, UML (statikus és dinamikus) készítése és feltöltése GitHubra
+3  | Warmup feladat
+4  | design dokumentumok bemutatása (statikus és dinamikus)
 
 
 ## Gantt diagram
