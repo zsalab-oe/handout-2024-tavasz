@@ -22,7 +22,7 @@ Az órák csütörtökönként a BA.F.07-ben vannak (távoktatásban, MS Teams-e
 
 ## Házi feladatok
 
-hét| feladat
+Határidő (hét)| feladat
 ---|--------
 2  | [Avalonia Tutorial teljesítése](https://docs.avaloniaui.net/tutorials/todo-list-app)
 3  | Warmup feladat
@@ -35,18 +35,20 @@ hét| feladat
     gantt
     dateFormat  YYYY-MM-DD
     axisFormat  %m-%d
-    title 2021/22 tanév II.félév
-    Introduction :milestone, 2022-02-10, 1d
+    title 2022/23 tanév I.félév
+    Bemutatkozás :milestone, 2022-09-08, 1d
+    section Avalonia
+        Avalonia-tutorial: active, avalonia-tutorial, 2022-09-08, 1w
     section Warm-up
-        Warm-up :active, warmup, 2022-02-24, 1w
-    Team draw :milestone, after warmup, 1d
+        Warm-up :active, warmup, 2022-09-15, 1w
+    Csapat sorsolás :milestone, after warmup, 1d
     section Sprint 1
-        Sprint 1 :active, sprint1, after warmup, 4w
+        Sprint 1 :active, sprint1, after warmup, 5w
     Demo 1 :milestone, after sprint1, 1d
     section Sprint 2
-        Sprint 2 :active, sprint2, after sprint1, 4w
+        Sprint 2 :active, sprint2, after sprint1, 5w
     Demo 2 :milestone, after sprint2, 1d
-    Midterm :milestone, 2022-05-12, 1d
+    Zárthelyi :milestone, 2022-12-08, 1d
     click sprint1 href "./sprint_1.html"
     click sprint2 href "./sprint_2.html"
 </div>
