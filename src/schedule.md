@@ -12,10 +12,10 @@ Az órák csütörtökönként a BA.F.07-ben vannak (távoktatásban, MS Teams-e
 |  6.|  10. 13.  | Verification & validation | konzultáció                                                            |
 |  7.|  10. 20.  | Continuous Integration    | nálunk hogy működik (handout, AutomatedCar), konzultáció               |
 |  8.|**10. 27.**| **1. demo**               | retrospektív, Sprint Planning, Task Definition Workshop                |
-|  9.|  11. 03.  | TBD                       | konzultáció                                                            |
-| 10.|  11. 10.  | TBD                       | konzultáció                                                            |
-| 11.|  11. 17.  | TBD                       | konzultáció                                                            |
-| 13.|  11. 24.  | TBD                       | konzultáció                                                            |
+|  9.|  11. 03.  | Review culture            | konzultáció                                                            |
+| 10.|  11. 10.  | Legacy code               | konzultáció                                                            |
+| 11.|  11. 17.  | ASPICE in nutshell        | konzultáció                                                            |
+| 13.|  11. 24.  | Guest presentation        | konzultáció                                                            |
 | 12.|**12. 01.**| Összefoglalás, **2. demo**| retrospektív, tárgy feedback                                           |
 | 14.|**12. 08.**| **Zárthelyi dolgozat**    |                                                                        |
 
