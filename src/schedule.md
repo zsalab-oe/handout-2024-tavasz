@@ -4,29 +4,29 @@ Az órák csütörtökönként a BA.F.07-ben vannak (távoktatásban, MS Teams-e
 
 |hét |dátum      |előadás                    |gyakorlat                                                               |
 |---:|:---------:|:-------------------------:|:----------------------------------------------------------------------:|
-|  1.|  02. 10.  | Bevezető, áttekintés      | feladat és a munkafolyamat átfogó ismertetése                          |
-|  2.|  02. 17.  | Napi munka, verziókezelők | git, GitHub, IDE ismertetés                                            |
-|  3.|  02. 24.  | Software Architecture I.  | csapatsorsolás, warmup                                                 |
-|  4.|  03. 03.  | Software Architecture II. | Sprint Planning, Task Definition Workshop                              |
-|  5.|  03. 10.  | Agile, SCRUM, Kanban      | konzultáció (hozott UML-k megbeszélése)                                |
-|  6.|  03. 17.  | Verification & validation | konzultáció                                                            |
-|  7.|  03. 24.  | Continuous Integration    | nálunk hogy működik (handout, AutomatedCar), konzultáció               |
-|  8.|**03. 31.**| **1. demo**               | retrospektív, Sprint Planning, Task Definition Workshop                |
-|  9.|  04. 07.  | Review                    | PR review, konzultáció                                                 |
-| 10.|  04. 14.  | Rektori/dékáni szünet     |                                                                        |
-| 11.|  04. 21.  | Legacy Code               | konzultáció                                                            |
-| 13.|  04. 28.  | TBD                       |                                                                        |
-| 12.|**05. 05.**| Összefoglalás, **2. demo**| retrospektív, tárgy feedback                                           |
-| 14.|**05. 12.**| **Zárthelyi dolgozat**    |                                                                        |
+|  1.|  09. 08.  | Bevezető, áttekintés      | feladat és a munkafolyamat átfogó ismertetése, avalonia tutorial       |
+|  2.|  09. 15.  | Napi munka, verziókezelők | git, GitHub, IDE ismertetés, warmup feladat ismertetése                |
+|  3.|  09. 22.  | Software Architecture I.  | csapatsorsolás, Sprint Planning, Task Definition Workshop              |
+|  4.|  09. 29.  | Software Architecture II. | konzultáció (design dokumentumok bemutatása)                           |
+|  5.|  10. 06.  | Agile, SCRUM, Kanban      | konzultáció                                                            |
+|  6.|  10. 13.  | Verification & validation | konzultáció                                                            |
+|  7.|  10. 20.  | Continuous Integration    | nálunk hogy működik (handout, AutomatedCar), konzultáció               |
+|  8.|**10. 27.**| **1. demo**               | retrospektív, Sprint Planning, Task Definition Workshop                |
+|  9.|  11. 03.  | Review culture            | konzultáció                                                            |
+| 10.|  11. 10.  | Legacy code               | konzultáció                                                            |
+| 11.|  11. 17.  | ASPICE in nutshell        | konzultáció                                                            |
+| 13.|  11. 24.  | Guest presentation        | konzultáció                                                            |
+| 12.|**12. 01.**| Összefoglalás, **2. demo**| retrospektív, tárgy feedback                                           |
+| 14.|**12. 08.**| **Zárthelyi dolgozat**    |                                                                        |
 
 
 ## Házi feladatok
 
-hét| feladat
+Határidő (hét)| feladat
 ---|--------
-1  | [Avalonia Tutorial teljesítése](https://docs.avaloniaui.net/tutorials/todo-list-app)
+2  | [Avalonia Tutorial teljesítése](https://docs.avaloniaui.net/tutorials/todo-list-app)
 3  | Warmup feladat
-4  | modul tervezése, UML (statikus és dinamikus) készítése és feltöltése GitHubra
+4  | design dokumentumok bemutatása (statikus és dinamikus)
 
 
 ## Gantt diagram
@@ -35,18 +35,20 @@ hét| feladat
     gantt
     dateFormat  YYYY-MM-DD
     axisFormat  %m-%d
-    title 2021/22 tanév II.félév
-    Introduction :milestone, 2022-02-10, 1d
+    title 2022/23 tanév I.félév
+    Bemutatkozás :milestone, 2022-09-08, 1d
+    section Avalonia
+        Avalonia-tutorial: active, avalonia-tutorial, 2022-09-08, 1w
     section Warm-up
-        Warm-up :active, warmup, 2022-02-24, 1w
-    Team draw :milestone, after warmup, 1d
+        Warm-up :active, warmup, 2022-09-15, 1w
+    Csapat sorsolás :milestone, after warmup, 1d
     section Sprint 1
-        Sprint 1 :active, sprint1, after warmup, 4w
+        Sprint 1 :active, sprint1, after warmup, 5w
     Demo 1 :milestone, after sprint1, 1d
     section Sprint 2
-        Sprint 2 :active, sprint2, after sprint1, 4w
+        Sprint 2 :active, sprint2, after sprint1, 5w
     Demo 2 :milestone, after sprint2, 1d
-    Midterm :milestone, 2022-05-12, 1d
+    Zárthelyi :milestone, 2022-12-08, 1d
     click sprint1 href "./sprint_1.html"
     click sprint2 href "./sprint_2.html"
 </div>
