@@ -5,14 +5,14 @@ Az órák csütörtökönként a BA.F.06-ben vannak (távoktatásban, MS Teams-e
 |hét |dátum      |előadás                    |gyakorlat                                                               |
 |---:|:---------:|:-------------------------:|:----------------------------------------------------------------------:|
 |  1.|  03. 02.  | Bevezető, áttekintés      | feladat és a munkafolyamat átfogó ismertetése, avalonia tutorial       |
-|  2.|  03. 09.  | Napi munka, verziókezelők | git, GitHub, IDE ismertetés, warmup feladat ismertetése                |
-|  3.|  03. 16.  | Software Architecture I.  | csapatsorsolás, Sprint Planning, Task Definition Workshop              |
-|  4.|  03. 23.  | Software Architecture II. | konzultáció (design dokumentumok bemutatása)                           |
+|  2.|  03. 09.  | Napi munka, verziókezelés | git, GitHub, IDE ismertetés, warmup feladat ismertetése                |
+|  3.|  03. 16.  | Software Architecture I.  | csapatsorsolás, Sprint Planning, Design előkészítése                   |
+|  4.|  03. 23.  | Software Architecture II. | Work Breakdown Structure (WBS) és design bemutatása                    |
 |  5.|  03. 30.  | Agile, SCRUM, Kanban      | konzultáció                                                            |
 |  6.|  04. 06.  | Rektori szünet            | konzultáció                                                            |
 |  7.|  04. 13.  | Verification & validation | konzultáció                                                            |
-|  8.|**04. 20.**| **1. demo**               | retrospektív, Sprint Planning, Task Definition Workshop                |
-|  9.|  04. 27.  | Continuous Integration    | konzultáció                                                            |
+|  8.|**04. 20.**| **1. demo**               | retrospektív, Sprint Planning, Design előkészítése                     |
+|  9.|  04. 27.  | Continuous Integration    | Work Breakdown Structure (WBS) és design bemutatása                    |
 | 10.|  05. 04.  | Review culture            | konzultáció                                                            |
 | 11.|  05. 11.  | Legacy code               | konzultáció                                                            |
 | 13.|  05. 18.  | ASPICE in nutshell v. Guest presentation        | konzultáció                                                            |
