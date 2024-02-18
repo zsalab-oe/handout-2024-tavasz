@@ -24,7 +24,7 @@ Az órák csütörtökönként a BA.F.06-ben vannak (távoktatásban, MS Teams-e
 
 Határidő (hét)| feladat
 ---|--------
-2  | [Avalonia Tutorial teljesítése](https://docs.avaloniaui.net/tutorials/todo-list-app)
+2  | [Avalonia Tutorial teljesítése](https://docs.avaloniaui.net/docs/tutorials/todo-list-app)
 3  | Warmup feladat
 4  | design dokumentumok bemutatása (statikus és dinamikus)
  
