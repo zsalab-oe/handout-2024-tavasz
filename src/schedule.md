@@ -4,20 +4,20 @@ Az órák csütörtökönként a BA.F.06-ben vannak (távoktatásban, MS Teams-e
 
 |hét |dátum      |előadás                    |gyakorlat                                                               |
 |---:|:---------:|:-------------------------:|:----------------------------------------------------------------------:|
-|  1.|  03. 02.  | Bevezető, áttekintés      | feladat és a munkafolyamat átfogó ismertetése, avalonia tutorial       |
-|  2.|  03. 09.  | Napi munka, verziókezelés | git, GitHub, IDE ismertetés, warmup feladat ismertetése                |
-|  3.|  03. 16.  | Software Architecture I.  | csapatsorsolás, Sprint Planning, Design előkészítése                   |
-|  4.|  03. 23.  | Software Architecture II. | Work Breakdown Structure (WBS) és design bemutatása                    |
-|  5.|  03. 30.  | Agile, SCRUM, Kanban      | konzultáció                                                            |
-|  6.|  04. 06.  | Rektori szünet            | konzultáció                                                            |
-|  7.|  04. 13.  | Verification & validation | konzultáció                                                            |
-|  8.|**04. 20.**| **1. demo**               | retrospektív, Sprint Planning, Design előkészítése                     |
-|  9.|  04. 27.  | Continuous Integration    | Work Breakdown Structure (WBS) és design bemutatása                    |
-| 10.|  05. 04.  | Review culture            | konzultáció                                                            |
-| 11.|  05. 11.  | Legacy code               | konzultáció                                                            |
-| 13.|  05. 18.  | ASPICE in nutshell v. Guest presentation        | konzultáció                                                            |
-| 12.|**05. 25.**| Összefoglalás, **2. demo**| retrospektív, tárgy feedback                                           |
-| 14.|**06. 01.**| **Zárthelyi dolgozat**    |                                                                        |
+|  1.|  02. 15.  | Bevezető, áttekintés      | feladat és a munkafolyamat átfogó ismertetése, avalonia tutorial       |
+|  2.|  02. 22.  | Napi munka, verziókezelés | git, GitHub, IDE ismertetés, warmup feladat ismertetése                |
+|  3.|  02. 29.  | Software Architecture I.  | csapatsorsolás, Sprint Planning, Design előkészítése                   |
+|  4.|  03. 07.  | Software Architecture II. | Work Breakdown Structure (WBS) és design bemutatása                    |
+|  5.|  03. 14.  | Agile, SCRUM, Kanban      | konzultáció                                                            |
+|  6.|  03. 21.  | Verification & validation | konzultáció                                                            |
+|  7.|  03. 28.  | Rektori szünet            | konzultáció                                                            |
+|  8.|**04. 04.**| **1. demo**               | retrospektív, Sprint Planning, Design előkészítése                     |
+|  9.|  04. 11.  | Continuous Integration    | Work Breakdown Structure (WBS) és design bemutatása                    |
+| 10.|  04. 18.  | Review culture            | konzultáció                                                            |
+| 11.|  04. 25.  | Legacy code               | konzultáció                                                            |
+| 12.|  05. 02.  | ASPICE in nutshell v. Guest presentation        | konzultáció                                                            |
+| 13.|**05. 09.**| Összefoglalás, **2. demo**| retrospektív, tárgy feedback                                           |
+| 14.|**05. 16.**| **Zárthelyi dolgozat**    |                                                                        |
 
 
 ## Házi feladatok
@@ -35,12 +35,12 @@ Határidő (hét)| feladat
     gantt
     dateFormat  YYYY-MM-DD
     axisFormat  %m-%d
-    title 2022/23 tanév II.félév
-    Bemutatkozás :milestone, 2023-03-02, 1d
+    title 2023/24 tanév II.félév
+    Bemutatkozás :milestone, 2024-02-15, 1d
     section Avalonia
-        Avalonia-tutorial: active, avalonia-tutorial, 2023-03-02, 1w
+        Avalonia-tutorial: active, avalonia-tutorial, 2024-02-15, 1w
     section Warm-up
-        Warm-up :active, warmup, 2023-03-09, 1w
+        Warm-up :active, warmup, 2023-02-22, 1w
     Csapat sorsolás :milestone, after warmup, 1d
     section Sprint 1
         Sprint 1 :active, sprint1, after warmup, 5w
@@ -48,7 +48,7 @@ Határidő (hét)| feladat
     section Sprint 2
         Sprint 2 :active, sprint2, after sprint1, 5w
     Demo 2 :milestone, after sprint2, 1d
-    Zárthelyi :milestone, 2023-06-01, 1d
+    Zárthelyi :milestone, 2024-05-16, 1d
     click sprint1 href "./sprint_1.html"
     click sprint2 href "./sprint_2.html"
 </div>
